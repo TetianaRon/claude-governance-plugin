@@ -1,0 +1,9 @@
+{
+  "name": "claude-governance",
+  "displayName": "Claude Governance",
+  "version": "1.0.0",
+  "description": "Governance skills for Claude work: session discipline, issue logging, plan discipline, documentation formatting, commit messages, and the standards and workflow for building projects, skills, subagents and plugins — with the standards-auditor subagent they dispatch.",
+  "author": {
+    "name": "Tetiana Ronska"
+  }
+}

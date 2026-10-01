@@ -1,0 +1,12 @@
+{
+  "name": "claude-governance-local",
+  "owner": {
+    "name": "Tetiana Ronska"
+  },
+  "plugins": [
+    {
+      "name": "claude-governance",
+      "source": "./plugins/claude-governance"
+    }
+  ]
+}
